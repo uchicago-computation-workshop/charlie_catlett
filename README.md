@@ -71,10 +71,10 @@ Recognized one of 25 “Doers, Dreamers & Drivers” of 2016 by Government Techn
 
 **Some suggested background:**
 
-* [Attached in Repository: AoT User Workshop Report (includes links on last page as well)](https://github.com/uchicago-computation-workshop/charlie_catlett/AoT-User-Workshop-Final-compressed.pdf)
+* [Attached in Repository: AoT User Workshop Report (includes links on last page as well)](https://github.com/uchicago-computation-workshop/charlie_catlett/blob/master/AoT-User-Workshop-Final-compressed.pdf)
 * AoT Website: https://arrayofthings.github.io
-* [Attached in Repository: AoT paper](https://github.com/uchicago-computation-workshop/charlie_catlett/AoT-Lessons-FINAL-ieee.pdf)
-* [Attached in Repository: Waggle paper](https://github.com/uchicago-computation-workshop/charlie_catlett/Waggle_Beckman_IEEE_Sensors2016.pdf)
+* [Attached in Repository: AoT paper](https://github.com/uchicago-computation-workshop/charlie_catlett/blob/master/AoT-Lessons-FINAL-ieee.pdf)
+* [Attached in Repository: Waggle paper](https://github.com/uchicago-computation-workshop/charlie_catlett/blob/master/Waggle_Beckman_IEEE_Sensors2016.pdf)
 * Article about Urban Modeling project: https://www.anl.gov/article/exascale-and-the-city
 * AoT data download and analysis tools and tutorials: https://aot-file-browser.plenar.io
 </p>
